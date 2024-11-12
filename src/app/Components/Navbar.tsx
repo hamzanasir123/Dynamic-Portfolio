@@ -135,7 +135,7 @@ function Navbar() {
              </div>
              <div className="my-4 p-5 sm:p-0">
                <p className="text-center sm:text-left">
-                 Hello there! I'm thrilled to welcome you to my portfolio. I am a
+                 Hello there! I am thrilled to welcome you to my portfolio. I am a
                  passionate and versatile full-stack developer with a keen interest
                  in exploring the latest cutting-edge technologies. My journey in
                  the world of web development has been nothing short of
@@ -157,7 +157,7 @@ function Navbar() {
                    <p className="p-3 font-bold text-xl">Web Development</p>
                    <p className="text-sm m-5">
                      As a developer, I find myself most captivated by the power and
-                     flexibility of NEXT.js. I'm always eager to dive into new
+                     flexibility of NEXT.js. I am always eager to dive into new
                      projects that leverage NEXT.js and discover innovative ways to
                      create fast, scalable, and user-friendly applications.
                    </p>
@@ -176,7 +176,7 @@ function Navbar() {
                    <p className="text-sm m-5">
                      With a focus on user-centric design and cutting-edge
                      technologies, I thrive on building intuitive and efficient
-                     apps that make a positive impact on people's lives. Let's turn
+                     apps that make a positive impact on people lives. Lets turn
                      ideas into reality and shape the future together.
                    </p>
                  </div>
@@ -193,7 +193,7 @@ function Navbar() {
                    <p className="p-3 font-bold text-xl">UI/UX Designing</p>
                    <p className="text-sm m-5">
                      Crafting visually appealing and intuitive user interfaces that
-                     offer a delightful user experience is something I'm truly
+                     offer a delightful user experience is something I am truly
                      fanatic about.
                    </p>
                  </div>

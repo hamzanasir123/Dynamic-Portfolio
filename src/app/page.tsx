@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Sidebar from "./Components/Sidebar";
 import Navbar from "./Components/Navbar";
 
