@@ -9,7 +9,7 @@ const Pacific = Raleway({ weight: '700', subsets: ['latin'] })
 function Sidebar() {
   return (
     <>
-    <div className=' sm:ml-20 mb-20 mt-2 h-[700px] w-[350px] bg-white rounded-[20px] relative'>
+    <div className=' sm:ml-20 ml-5 mb-20 mt-2 h-[700px] w-[350px] bg-white rounded-[20px] relative'>
         <div className='relative'>
             <Image 
             src={"/abbc111e-1fe2-46f5-aebf-678e03b9e25a.jpg"}

@@ -43,7 +43,7 @@ function Navbar() {
    const [active, setActive] = useState('Projects')
   return (
     <>
-      <div className="h-[80px] sm:w-[400px] mb-4 bg-[#F2F7FC] rounded-[20px] border-[#E1E8EF] border-2 sm:ml-[460px]">
+      <div className="h-[80px] sm:w-[400px] mb-4 bg-[#F2F7FC] rounded-[20px] border-[#E1E8EF] border-2 ml-[20px] sm:ml-[460px]">
         <div className="sm:w-[440px] h-[80px] sm:mx-6 mx-3 my-3">
           <div className="flex flex-wrap gap-12">
             <button
